@@ -1,3 +1,5 @@
+![Portfolio Demo](assets/portfolio-demo.gif)
+
 # 🚀 Live Demo
 
 🌐 **Portfolio Website**
