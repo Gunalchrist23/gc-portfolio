@@ -1,58 +1,31 @@
-# 🌐 Gunal Christ — Developer Portfolio
+# 🚀 Live Demo
 
-> A modern **3D developer portfolio website** showcasing my skills, projects, and experience as a **Backend & AI/ML Engineer**.
+🌐 **Portfolio Website**
 
-[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge)](https://gunalchrist23.github.io/portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Gunalchrist23-black?style=for-the-badge&logo=github)](https://github.com/Gunalchrist23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GunalChrist-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gunalchrist)
+🔗 Netlify Deployment  
+https://gc-porfolio.netlify.app/
 
----
-
-# ✨ Overview
-
-This repository contains the source code for my **personal developer portfolio website**.
-
-The portfolio highlights:
-
-- My **backend engineering skills**
-- **AI / Machine Learning projects**
-- Professional experience
-- Technical skillset
-- Contact information for recruiters
-
-The goal of this project is to create a **recruiter-focused portfolio** that visually demonstrates my engineering abilities and project experience.
+🔗 GitHub Pages (Backup Deployment)  
+https://gunalchrist23.github.io/portfolio
 
 ---
 
-# 🌟 Features
+# 📸 Preview
 
-✅ Interactive **3D hero background using Three.js**  
-✅ Modern **glassmorphism UI design**  
-✅ Animated **skills visualization**  
-✅ 3D project cards with hover effects  
-✅ Fully responsive design  
-✅ Recruiter-focused layout  
-✅ GitHub project showcase  
-✅ Smooth animations and transitions  
+![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Gunal+Christ+Portfolio)
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Run Locally
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+Clone the repository
 
-### Graphics & Animation
-- Three.js
-- WebGL
+git clone https://github.com/Gunalchrist23/gc-portfolio.git
 
-### Design
-- Glassmorphism UI
-- Neon cyberpunk theme
-- Custom animations
+Navigate to the project folder
 
----
+cd gc-portfolio
 
-# 📂 Project Structure
+Open in browser
+
+open index.html
